@@ -1,0 +1,51 @@
+
+[
+    {
+        "id": 1,
+        "nome": "Denylson Novais",
+        "email": "denylson.novais@example.com",
+        "telefone": "11987654321",
+        "endereco": {
+            "rua": "Caminho de Itapevi",
+            "numero": "12",
+            "bairro": "Vila Menck",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "06000-002"
+        },
+        "dataCadastro": "2023-01-15",
+        "ativo": true
+    },
+    {
+        "id": 2,
+        "nome": "Marcelo Vieira",
+        "email": "marcelo.vieira@example.com",
+        "telefone": "21998765432",
+        "endereco": {
+            "rua": "Avenida Principal",
+            "numero": "456",
+            "bairro": "Centro",
+            "cidade": "Rio de Janeiro",
+            "estado": "RJ",
+            "cep": "06000-001"
+        },
+        "dataCadastro": "2023-01-15",
+        "ativo": true
+    },
+    {
+        "id": 3,
+        "nome": "Giulia Juncken",
+        "email": "giuliajuncken@example.com",
+        "telefone": "910329999",
+        "endereco": {
+            "rua": "Travessa da Paz",
+            "numero": "78",
+            "bairro": "Liberdade",
+            "cidade": "Rio Grande da Serra",
+            "estado": "SP",
+            "cep": "06000-000"
+        },
+        "dataCadastro": "2023-01-15",
+        "ativo": true
+    }
+]
