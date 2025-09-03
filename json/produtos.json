@@ -1,45 +1,45 @@
 [
     {
         "id": 1,
-        "nome": "Camiseta",
-        "descricao": "Camiseta de algodão",
-        "preco": 29.90,
+        "nome": "Camisa Santos I 25/26 ",
+        "descricao": " 100% Poliéster",
+        "preco": 189.90,
         "categoria": "Roupas",
-        "estoque": 100,
+        "estoque": 200,
         "ativo": true
     },
     {
         "id": 2,
-        "nome": "Calça Jeans",
-        "descricao": "Calça jeans slim fit",
-        "preco": 99.90,
+        "nome": "Camisa Santos II 25/26",
+        "descricao": "100% Poliéster",
+        "preco": 199.90,
         "categoria": "Roupas",
         "estoque": 50,
         "ativo": true
     },
     {
         "id": 3,
-        "nome": "Tênis Esportivo",
-        "descricao": "Tênis para corrida",
+        "nome": "Camisa Santos Edição Especial 2025",
+        "descricao": "100% Poliéster",
         "preco": 149.90,
-        "categoria": "Calçados",
+        "categoria": "Roupas",
         "estoque": 75,
         "ativo": true
     },
     {
         "id": 4,
-        "nome": "Boné",
-        "descricao": "Boné de beisebol",
-        "preco": 39.90,
+        "nome": "Boné Santos ",
+        "descricao": "Boné do Santos",
+        "preco": 59.90,
         "categoria": "Acessórios",
         "estoque": 120,
         "ativo": true
     },
     {
         "id": 5,
-        "nome": "Meia",
+        "nome": "Meia do peixão",
         "descricao": "Meia de algodão",
-        "preco": 9.90,
+        "preco": 19.90,
         "categoria": "Acessórios",
         "estoque": 200,
         "ativo": true
